@@ -2,7 +2,7 @@
 
 ## Digital clock that displays the date using HTML, CSS and JavaScript.  
 
-click [here]() to view the digital clock.
+click [here]( https://saeed7865.github.io/Digital-clock/) to view the digital clock.
 
 ![Digital clock](clock.png)
 
